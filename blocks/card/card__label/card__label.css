@@ -1,0 +1,13 @@
+.card__label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 91px;
+  height: 25px;
+  background-color: #FFDD2D;
+  margin-top: 10px;
+  border-radius: 24px;
+  font-family: 'SF Pro Text';
+  font-size: 14px;
+  line-height: 122%;
+}

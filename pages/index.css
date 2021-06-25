@@ -1,8 +1,19 @@
 @import url(../vendor/normalize.css);
+@import url(../vendor/fonts/sf-pro-text/sf-pro-text.css);
+@import url(../vendor/fonts/montserrat/montserrat.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/card/card.css);
+@import url(../blocks/card/card__label/card__label.css);
+@import url(../blocks/card/card__link/card__link.css);
+@import url(../blocks/card/card__list/card__list.css);
+@import url(../blocks/card/card__input/card__input.css);
+@import url(../blocks/card/card__button/card__button.css);
+@import url(../blocks/card/card__cover-title/card__cover-title.css);
+@import url(../blocks/card/card__title/card__title.css);
+@import url(../blocks/card/card__cover-text/card__cover-text.css);
+@import url(../blocks/card/card__text/card__text.css);
 
 @import url(../blocks/footer/footer.css);
