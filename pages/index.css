@@ -1,9 +1,6 @@
-@import url(../vendor/normalize.css);
 @import url(../vendor/fonts/sf-pro-text/sf-pro-text.css);
 @import url(../vendor/fonts/montserrat/montserrat.css);
 @import url(../blocks/page/page.css);
-
-@import url(../blocks/header/header.css);
 
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/card/card.css);
@@ -21,5 +18,3 @@
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/form__input/form__input.css);
 @import url(../blocks/form/form__submit-button/form__submit-button.css);
-
-@import url(../blocks/footer/footer.css);
