@@ -1,3 +1,20 @@
 .card__button {
-  
+  width: 280px;
+  height: 45px;
+  background-color: white;
+  border: none;
+  box-shadow: 0px 7px 35px rgba(0, 0, 0, 0.25);
+  border-radius: 26px;
+  font-family: 'SF Pro Text';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 120%;
+  color: #333333;
+}
+
+.card__button:hover {
+  cursor: pointer;
+  transition: opacity 0.2s;
+  opacity: 0.6;
 }

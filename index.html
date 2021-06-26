@@ -22,6 +22,7 @@
       <div class="card">
         <h2 class="card__title">Определить участников процесса</h2>
         <p class="card__text">Составьте список тех, кто пользуется вашим продуктом.</p>
+        <a href="#" class="card__text card__link">Скачать чек-лист списка</a>
       </div>
       <div class="card">
         <h2 class="card__title">Нарисовать карты сценариев использования</h2>
@@ -33,13 +34,25 @@
       </div>
       <div class="card">
         <h2 class="card__title">Пересмотреть процессы</h2>
+        <ul class="card__text card__list">
+          <li class="card__list-item">Исправьте ошибки.</li>
+          <li class="card__list-item">Пропишите инструкции.</li>
+          <li class="card__list-item">Проверьте все еще раз.</li>
+        </ul>
       </div>
       <div class="card">
         <h2 class="card__title">Задайте вопрос спикеру</h2>
+        <form class="form" name="question">
+          <textarea name="question" class="form__input" minlength="2" placeholder="Введите текст вопроса" required></textarea>
+          <button type="submit" class="card__button form__submit-button">Отправить</button>
+        </form>
       </div>
       <div class="card">
         <h2 class="card__title">Опыт Delivery Club в подкасте «Бизнес&#8209;ланч»</h2>
         <p class="card__text">В подкасте с Артемом Ишониным из Delivery Club обсудили, как отлаживать процессы в компании.</p>
+        <a href="https://youtube.com" class="card__button-link" target="blank">
+          <button class="card__button">Смотреть на YouTube</button>
+        </a>
       </div>
     </section>
   </main>
