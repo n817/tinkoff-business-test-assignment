@@ -12,10 +12,10 @@
 Выполнена сборка с помощью Webpack
 ___________________________
 ## Инструкция по использованию проекта и системные требования
-Проект доступен в интернете на github-pages по [ссылке](https://niarga.github.io/tinkoff-business-test-assignment/)
+Проект доступен в интернете на github-pages по [ссылке](https://nik817.github.io/tinkoff-business-test-assignment/)
 
 Проект также можно скачать и открыть на компьютере:
-1. Скачать сайт в виде архива из [репозитория](https://github.com/niarga/tinkoff-business-test-assignment) на компьютер (кнопка Code, затем Download ZIP);
+1. Скачать сайт в виде архива из [репозитория](https://github.com/nik817/tinkoff-business-test-assignment) на компьютер (кнопка Code, затем Download ZIP);
 2. Распаковать скачанный ZIP-архив на компьютере;
 3. Перейти в папку с распакованным проектом и запустить: npm run dev
 
